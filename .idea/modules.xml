@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LABA_N1/LABA_N1.iml" filepath="$PROJECT_DIR$/LABA_N1/LABA_N1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LABA_N2/LABA_N2.iml" filepath="$PROJECT_DIR$/LABA_N2/LABA_N2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LABA_N3/LABA_N3.iml" filepath="$PROJECT_DIR$/LABA_N3/LABA_N3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laboratory-work-industrial-programming-FPMI-PMM-2nd-year_LABA_N3.iml" filepath="$PROJECT_DIR$/.idea/Laboratory-work-industrial-programming-FPMI-PMM-2nd-year_LABA_N3.iml" />
+    </modules>
+  </component>
+</project>
